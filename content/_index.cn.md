@@ -1,6 +1,6 @@
 +++
-title = "欢迎光临"
-disableTitleSeparator = true
+title = "高质量、个性化和快速响应的数学和统计课程辅导"
+disableTitleSeparator = flase
 +++
 ![running clock](./clock.png)
 需要辅导数学和统计课程？ 请联系我: <button class="button" onclick="myFunction()">即时联系</button>。保证提供高质量、个性化和快速响应的服务。

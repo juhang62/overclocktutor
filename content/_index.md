@@ -1,6 +1,6 @@
 +++
-title = "Welcome"
-disableTitleSeparator = true
+title = "Quick response, personalized and high-quality tutoring service"
+disableTitleSeparator = flase
 +++
 ![running clock](./clock.png)
 Need a tutor for your math or stat courses? Feel free to contact me: <button class="button" onclick="myFunction()">Chat now</button>. Quick response, personalized and high-quality tutoring service guaranteed. 
