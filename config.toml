@@ -284,7 +284,7 @@ paginate = 5
       [languages.cn.menu]
 
         [[languages.cn.menu.main]]
-          name = "关于我"
+          name = "关于我们"
           weight = 1
           url = "about/"
 
