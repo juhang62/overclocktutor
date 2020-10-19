@@ -1,7 +1,7 @@
 ---
 title: "Matlab code for Gaussian elimination (naïve, paritial pivoting, scaled partial pivoting)"
 date: 2020-10-18T22:11:59-07:00
-draft: true
+draft: false
 ---
 
 Gaussian elimination is an algorithm to solve linear systems. Its naive version is usually taught as early as in your algebra class. When it is revisited later in a numerical analysis course, pivoting strategy is introduced to avoid amplified round-off error that plagues the Naive approach.
